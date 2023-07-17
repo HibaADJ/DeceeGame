@@ -1,17 +1,1 @@
-# dice_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# DeceeGame
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-16 at 15 09 34](https://github.com/HibaADJ/DeceeGame/assets/91247983/50f93b37-d5ff-4cc8-8e80-387c74fc54a6)
